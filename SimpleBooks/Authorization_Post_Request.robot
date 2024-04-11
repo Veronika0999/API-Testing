@@ -4,7 +4,7 @@ Library               Collections
 
 *** Variables ***
 ${BASE_URL}           https://simple-books-api.glitch.me
-${TOKEN}              0e125cc349707dd9368ed1135a6354b1d98f7bcd00d88b3ad8e40663857bb9b8
+${TOKEN}              YourAuthTokenHere
 
 *** Test Cases ***
 Authenticate and Make POST Request
